@@ -1,6 +1,3 @@
 ## justin landing page
-# h1 Justin Agostini
-## Horizontal Rules
-## Emphasis 
-**This is bold text**
-**Welcome to jpickles world**
+Justin Agostini 
+Welcome to the world of the pickle
